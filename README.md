@@ -3,21 +3,21 @@
 
 # Esp8266-ESP32AlexaRelaySwitch
 
-With this project, you can easily control light relays with Alexa voice assistant.
+With this project, you can easily control light relays with the Alexa voice assistant.
 
 ## Features
 
-- Control light relays with the Alexa voice assistant and the Alexa app
+- Control light relays with the the Alexa voice assistant and the Alexa app
 - Easily add more devices and turn them on or off by default 
 - Update your code via ArduinoOTA
 
 ## Usage
 
-**1.** Download the code and open it in your IDE
-**2.** Set your WIFI credentials
-**3.** Change the pinout for the relays and change the names of the devices (you can also add/remove devices)
-**4.** Upload the code to your esp
-**5.** Search for new devices in Alexa
+1. Download the code and open it in your IDE
+2. Set your WIFI credentials
+3. Change the pinout for the relays and change the names of the devices (you can also add/remove devices)
+4. Upload the code to your esp
+5. Search for new devices in Alexa
 
 ## Bugs and suggestions
 
